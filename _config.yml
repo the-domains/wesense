@@ -2,6 +2,7 @@ name: wesense
 favicon: null
 layout_spectrum: 0.30506742536090314
 typography_spectrum: 0.4082442093640566
+title: 'tech & art'
 cta:
   domain: null
   bucket: null
