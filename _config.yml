@@ -1,7 +1,7 @@
 name: wesense
 favicon: null
-layout_spectrum: 0.30506742536090314
-typography_spectrum: 0.4082442093640566
+layout_spectrum: 0.51105
+typography_spectrum: 0.58001
 title: 'tech & art'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7384143068920821
+    - '#ffffff'
+    - '#000000'
+    - '#dcdcdc'
+    - '#262626'
+    - '#6f6f6f'
+  brandStrength: 1
   lightness: 0.9576977519318461
   saturation: 0.027336770202964544
   rhythmicContrast: 0.6405598232522607
